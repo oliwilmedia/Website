@@ -1,0 +1,65 @@
+body{
+    font-family: Helvetica, sans-serif;
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+}
+
+.Container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.Header{
+    background-color: black;
+    width: 100%;
+    top: 0px;
+    position:fixed;
+    z-index: 1000;
+}
+
+.Logo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+}
+
+.Nav{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 37px;
+}
+
+.Footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    width: 100%;
+}
+
+.FooterContainer{
+    margin: 0 auto;
+    width: 960px;
+}
+
+.FooterText{
+    padding-top: 15px;
+    float: left;
+}
+
+.SocialMediaIcons{
+    padding-top: 5px;
+    float: right;
+}

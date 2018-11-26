@@ -1,0 +1,166 @@
+body{
+    font-family: Helvetica, sans-serif;
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+}
+
+.Container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.Header{
+    background-color: black;
+    width: 100%;
+    top: 0px;
+    position:fixed;
+    z-index: 1;
+}
+
+.Logo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    float: left;
+}
+
+.Nav{
+    float: right;
+}
+
+.Content1{
+    padding-top: 67px;
+    margin: auto;
+    padding-bottom: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 10px;
+}
+
+.Content2{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.Footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    width: 100%;
+}
+
+.FooterContainer{
+    margin: 0 auto;
+    width: 960px;
+}
+
+.FooterText{
+    padding-top: 15px;
+    float: left;
+}
+
+.Divider1{
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 960px;
+    text-align: center;
+}
+
+#MainImg{
+    max-width: 100%;
+}
+
+#VideoProd{
+
+}
+
+#PhotoProd{
+    
+}
+
+#DigContent{
+    
+}
+
+#VideoProdText{
+    padding-top: 175px;
+    margin-right: 27px;
+    float: right;
+    text-align: center;
+}
+
+#PhotoProdText{
+    padding-top: 175px;
+    margin-right: 26px;
+    float: right;
+    text-align: center;
+}
+
+#DigContentText{
+    padding-top: 175px;
+    margin-right: 0px;
+    float: right;
+    text-align: center;
+}
+
+#VidProdButton{
+    position: relative;
+    float: right;
+    top: 250px;
+    left: 215px;;
+    color: white;
+    font-size: 14px; 
+    padding: 13px 20px;    
+    background-color: black;
+    border-color: white;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+#PhoProdButton{
+    position: relative;
+    float: right;
+    top: 250px;
+    left: 215px;;
+    color: white;
+    font-size: 14px;    
+    padding: 13px 20px;    
+    background-color: black;
+    border-color: white;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+#DigContButton{
+    position: relative;
+    float: right;
+    bottom: 260px;
+    right: 145px;
+    color: white;
+    font-size: 14px;    
+    padding: 13px 20px;    
+    background-color: black;
+    border-color: white;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+.SocialMediaIcons{
+    padding-top: 5px;
+    float: right;
+}
